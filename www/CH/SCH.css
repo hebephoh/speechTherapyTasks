@@ -1,0 +1,49 @@
+.widget {
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: white;
+    font-family: 'Roboto', sans-serif;
+    
+  }
+  .widget-title {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #222;
+    font-size: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 25%;
+    margin-right: 0px;
+    border-left: 2px solid #b99d61;
+  }
+ .t {
+    margin-top: 10%;
+     text-align: left;
+     font-size: 16px;
+     letter-spacing: 1px;
+     font-weight: 300;
+     text-decoration: none;
+ }
+
+ p a{
+    
+    text-decoration: none;
+    outline: none;
+ }
+
+ .FOOTER{
+    position: fixed; /* Фиксированное положение */
+    bottom: 0; /* Левый нижний угол */
+    right: 15%;
+ }
+
+ .bot{
+    text-align: center;
+    font-size: 26px;
+    margin-top: 40%;
+    text-decoration: none;
+    outline: none;
+ }

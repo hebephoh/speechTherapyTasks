@@ -1,0 +1,42 @@
+.widget {
+  padding: 5%;
+  background: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+.widget1{
+    text-align: center;;
+}
+.widget-title {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #222;
+  font-size: 36px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-bottom: 40px;
+  margin-right: 0px;
+  border-left: 2px solid #b99d61;
+}
+.widget-list {
+ 
+  padding: 0;
+  list-style: none;
+  font-size: 26px;
+}
+.widget-list a:before {
+  content: "\2014";
+  margin-right: 0px;
+}
+.widget-list a {
+  text-decoration: none;
+  outline: none;
+  display: block;
+  padding: 0px 0;
+  letter-spacing: 1px;
+  font-weight: 300;
+  color: #444;
+  transition: .3s linear;
+  margin-bottom: 15px;
+}
+.widget-list a:hover {color: #b99d61;}

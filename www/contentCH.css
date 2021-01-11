@@ -1,0 +1,40 @@
+.widget {
+    padding: 5%;
+    background: white;
+    font-family: 'Roboto', sans-serif;
+    
+  }
+  .widget-title {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #222;
+    font-size: 36px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 40px;
+    margin-right: 0px;
+    border-left: 2px solid #b99d61;
+  }
+ .t {
+     text-align: center;
+     font-size: 26px;
+     letter-spacing: 1px;
+     font-weight: 300;
+     margin-bottom: 10px;
+     text-decoration: none;
+ }
+
+ p{
+    margin: 5%;
+    padding: 5%;
+    text-decoration: none;
+    outline: none;
+ }
+
+ .bot{
+    text-align: center;
+    font-size: 26px;
+     margin-top: 40%;
+     text-decoration: none;
+     outline: none;
+ }
